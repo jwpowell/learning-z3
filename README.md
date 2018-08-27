@@ -1,5 +1,7 @@
 # learning-z3
-Scripts written to learn z3
+
+Scripts written to learn the [Z3](https://github.com/Z3Prover/z3) theorem
+prover.
 
 To run the example scripts:
 
